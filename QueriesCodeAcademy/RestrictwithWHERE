@@ -1,0 +1,11 @@
+SELECT * 
+FROM movies 
+WHERE imdb_rating < 5; 
+
+SELECT * 
+FROM movies 
+WHERE year > 2014;
+
+-- The WHERE statement makes so what comes after has to be true. 
+-- The first one is saying scores lower than5 
+-- the second one is saying movies past 2014. 
