@@ -15,3 +15,6 @@ INSERT INTO celebs
  VALUES(4,'Taylor Swift',26);
 
 SELECT id, name, age FROM celebs
+
+-- INSERT INTO is the command that allows you insert the specified fields. 
+-- VALUES are what you're actually putting in.D
