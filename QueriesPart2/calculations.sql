@@ -1,3 +1,6 @@
+
+
+
 COUNT(): count the number of rows
 SUM(): the sum of the values in a column
 MAX()/MIN(): the largest/smallest value
