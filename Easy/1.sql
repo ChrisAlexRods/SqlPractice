@@ -15,3 +15,8 @@ SELECT
     ELSE 'Scalene'
   END AS Triangle_Type
 FROM TRIANGLES;
+
+-- CASE is used to for a series of conitions. In this case the 3 triangles and one null. 
+-- Then each case is a when statemenet relevant to the specific triangle. 
+-- The END finishes the expression. We give it the alias Triangle_Type so that;s the new column name 
+-- And we finish with the FROM statement. 
