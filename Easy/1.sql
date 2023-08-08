@@ -20,3 +20,5 @@ FROM TRIANGLES;
 -- Then each case is a when statemenet relevant to the specific triangle. 
 -- The END finishes the expression. We give it the alias Triangle_Type so that;s the new column name 
 -- And we finish with the FROM statement. 
+
+Make sure the capitolization is done the samt way as the question. 
