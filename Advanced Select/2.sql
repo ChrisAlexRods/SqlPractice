@@ -17,8 +17,9 @@ This first line is simialr than the last, but it's a senetence rather than paren
 The lower line is there to make sure that the the occupation is lowered for 
 the second query. 
 
-We used group by to is used to group rows that have the saem values in the 
-specified columns. It's usually used with COUNT, SUM, AVG. 
+We used GROUP BY  to group rows that have the saem values in the 
+specified columns. It's usually used with COUNT, SUM, AVG.
+
 In our case the OCCUPATIONS table are being grouped by the 
 values in the Occupation column. 
 This means that all rows with the same occupation will be grouped 
